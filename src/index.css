@@ -1,0 +1,31 @@
+html {
+  height: 100%;
+}
+
+body {
+  background: linear-gradient(180deg, rgb(68, 4, 68), black);
+  color: #FFFFFF;
+  font-family: Helvetica;
+}
+
+button {
+  padding: 0.7em;
+  border: 3px solid #FFF;
+  border-radius: 2rem;
+  font-size: 1em;
+  font-weight: 700;
+  background-color: rgba(68, 4, 68);
+  color: #FFF;
+  box-shadow: 5px 5px 5px #000;
+  text-transform: uppercase;
+}
+
+button:hover {
+  cursor: pointer;
+  background-color: rgb(37, 7, 37);
+  transition: background 5s;
+}
+
+
+
+
